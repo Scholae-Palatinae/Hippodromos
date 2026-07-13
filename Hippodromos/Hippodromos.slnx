@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Hippodromos/Hippodromos.vcxproj" />
+  <Project Path="Hippodromos/Hippodromos.vcxproj" Id="f4006bb4-3273-4718-a501-3a4331cd88c1" />
 </Solution>
